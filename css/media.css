@@ -1,0 +1,40 @@
+@media (min-width: 768px) {
+    .logo {
+        margin-top: 38px;
+    }
+    .subtitle {
+        margin-bottom: 34px;
+    }
+    .find-partner {
+        width: 225px;
+    }
+    .header {
+        padding-bottom: 115px;
+    }
+    .slogan {
+        margin-top: 60px;
+        margin-bottom: 32px;
+    }
+    .card {
+        margin-bottom: 55px;
+    }
+    .card:nth-last-child(-n+2) {
+        margin-bottom: 38px;
+    }
+    .see-other {
+        width: 193px;
+        height: 40px;
+    }
+    .service {
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 960px) {
+    .header {
+        padding-bottom: 115px;
+    }
+    .service {
+        margin-bottom: 64px;
+    }
+}
