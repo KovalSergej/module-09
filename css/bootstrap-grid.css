@@ -33,7 +33,7 @@ html {
 
 @media (min-width: 320px) {
   .container {
-    max-width: 300px;
+    min-width: 320px;
   }
 }
 
